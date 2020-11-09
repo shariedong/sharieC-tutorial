@@ -1,0 +1,13 @@
+C:\Users\Hui\Desktop\JOB\tutorial_csharp\myTutorial\bin\Debug\netcoreapp3.1\myTutorial.exe
+C:\Users\Hui\Desktop\JOB\tutorial_csharp\myTutorial\bin\Debug\netcoreapp3.1\myTutorial.deps.json
+C:\Users\Hui\Desktop\JOB\tutorial_csharp\myTutorial\bin\Debug\netcoreapp3.1\myTutorial.runtimeconfig.json
+C:\Users\Hui\Desktop\JOB\tutorial_csharp\myTutorial\bin\Debug\netcoreapp3.1\myTutorial.runtimeconfig.dev.json
+C:\Users\Hui\Desktop\JOB\tutorial_csharp\myTutorial\bin\Debug\netcoreapp3.1\myTutorial.dll
+C:\Users\Hui\Desktop\JOB\tutorial_csharp\myTutorial\bin\Debug\netcoreapp3.1\myTutorial.pdb
+C:\Users\Hui\Desktop\JOB\tutorial_csharp\myTutorial\obj\Debug\netcoreapp3.1\myTutorial.csprojAssemblyReference.cache
+C:\Users\Hui\Desktop\JOB\tutorial_csharp\myTutorial\obj\Debug\netcoreapp3.1\myTutorial.AssemblyInfoInputs.cache
+C:\Users\Hui\Desktop\JOB\tutorial_csharp\myTutorial\obj\Debug\netcoreapp3.1\myTutorial.AssemblyInfo.cs
+C:\Users\Hui\Desktop\JOB\tutorial_csharp\myTutorial\obj\Debug\netcoreapp3.1\myTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Hui\Desktop\JOB\tutorial_csharp\myTutorial\obj\Debug\netcoreapp3.1\myTutorial.dll
+C:\Users\Hui\Desktop\JOB\tutorial_csharp\myTutorial\obj\Debug\netcoreapp3.1\myTutorial.pdb
+C:\Users\Hui\Desktop\JOB\tutorial_csharp\myTutorial\obj\Debug\netcoreapp3.1\myTutorial.genruntimeconfig.cache
